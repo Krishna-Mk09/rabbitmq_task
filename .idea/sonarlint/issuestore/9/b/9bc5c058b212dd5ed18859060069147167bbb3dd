@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏëŞ–ùÿÿÿÿ8™ÍØ”Ú1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏëŞ–ùÿÿÿÿ8›ÍØ”Ú1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ‹è¯şÿÿÿÿ
+v	java:S116	"ZRename this field "RABBIT_TEMPLATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ªğè8¡ÍØ”Ú1
+v	java:S116
+"ZRename this field "DIRECT_EXCHANGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®´ı8£ÍØ”Ú1
